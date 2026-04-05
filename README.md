@@ -27,7 +27,7 @@ Uncertainty (EPU) Index using ARIMA and XGBoost — with a weighted ensemble mod
 
 ## 🚀 Run Locally
 ```bash
-git clone https://github.com/yourusername/epu-forecasting-india.git
+git clone https://github.com/aarushiksharmads/epu-forecasting-india.git
 cd epu-forecasting-india
 pip install -r requirements.txt
 streamlit run app.py
